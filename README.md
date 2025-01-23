@@ -43,6 +43,9 @@ The core components of this project include:
 * **Ethereum Integration:** Leverages the Ethereum platform for smart contract execution and management.
 * **Practical Implementation:**  Provides a functional implementation of the core certification management features.
 
+### Built with
+
+[![My Skills](https://skillicons.dev/icons?i=js,solidity)](https://skillicons.dev)
 
 
 ### Deliverables
